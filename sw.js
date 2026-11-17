@@ -1,6 +1,6 @@
 // sw.js — caches the app so the calendar opens fully offline.
 // Bump CACHE whenever you upload changed files so users get the update.
-const CACHE = 'ogoni-calendar-v3';
+const CACHE = 'ogoni-calendar-v4';
 const SHELL = ['./', './index.html', './style.css', './app.js', './install.js', './manifest.json',
   './calendar.ico', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
